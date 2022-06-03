@@ -1,2 +1,5 @@
-# java-examples-in-a-nutshell
-Created on base Java examples in a nutshell D. Flanagan
+---
+permalink: /
+---
+
+![Обложка]({{ site.url }}{{ site.baseurl }}/assets/images/cover.jpg "Самоучитель Java 2")
