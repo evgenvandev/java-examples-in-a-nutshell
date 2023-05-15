@@ -13,6 +13,8 @@ permalink: pretty
 nav:
   - Введение:
     - Предисловие: 'content/introduction/introduction'
+    - Примеры Java-online: 'content/introduction/examples-java-online'
+    - Другие книги от O`Reilly: 'content/introduction/other-books-of-oreilly'
   - Глава 1. Основы Java:
     - Hello World: 'content/chapter-1/hello-world'
     - FizzBuzz: 'content/chapter-1/fizz-buzz'
